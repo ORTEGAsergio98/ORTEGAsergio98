@@ -11,7 +11,7 @@
 ### 🚀 About me
 
 - 🎓 Industrial Electronic Engineer (Automation specialization), Universidad de Jaén
-- 🤖 Currently working as an **AI Engineer at Cap Capital**, building production-grade AI systems for **Kivnon**, an AGV/AMR manufacturer
+- 🤖 Currently working as an **AI Engineer**, building conversational agents and RAG systems for an industrial robotics company
 - 🧠 I design and deploy conversational agents, RAG pipelines, and intelligent automation systems end-to-end — from architecture to cloud deployment
 - 👁️ Background in Computer Vision, from industrial inspection systems to agricultural AI research
 - 🌱 Always learning — robotics and AI have been a passion since I was a kid
@@ -39,11 +39,11 @@
 
 ### 📌 What I've built
 
-- An AI-powered technical support system combining conversational agents, enterprise RAG over technical documentation, guided troubleshooting, and Jira integration
+- An AI technical support assistant for industrial equipment (conversational agent, RAG over technical documentation, guided troubleshooting), currently in internal use
 - A complete corporate travel automation agent orchestrating trip requests, multi-role approvals, real-time search, and invoice processing
 - A computer vision system for automated fruit load estimation in olive trees (drone imagery + classical CV) — my undergraduate thesis
 
-*Most of my professional work lives in private company repositories. Personal projects are being added here over time.*
+*Most of my professional work is in private repositories. Public projects will be added here.*
 
 ---
 
